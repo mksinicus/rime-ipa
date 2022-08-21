@@ -485,7 +485,7 @@ f	f
 ͊	fnx
 ̊	fo
 ̢	frq
-̆	fv
+# ̆	fv
 ̽	fx
 ̍	fz
 ̃	f~
@@ -658,3 +658,16 @@ z	z
 ǀ	|
 ǂ	|=
 ǁ	||
+
+# Below are changes and additions
+
+# caron and breve tweak
+̌	fv
+̆	f(
+
+# metrical separators (foot and intonation group symbol), not the same as clicks
+|	|.
+‖	||.
+# intuitive stress marker
+ˈ	'
+ˌ	''
