@@ -31,7 +31,8 @@ engine:
 speller:
   alphabet: "!'()+-./0123456789:<=>?HL[\\]^`abcdefghijklmnopqrstuvwxyz|~"
   initials: "!()/0123456789:?HL\\]abcdefghijklmnopqrstuvwxyz|"
-  auto_select: true
+  delimiter: ';'
+  # auto_select: true
 
 translator:
   dictionary: ipa_yunlong
@@ -40,5 +41,5 @@ translator:
   comment_format:
     - xform/^~//
 
-key_binder:
-  import_preset: default
+# key_binder:
+#   import_preset: default
